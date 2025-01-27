@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipisha-21&show_icons=true&locale=en&layout=compact" alt="dipisha-21" /></p><!--
 **dipishamob/dipishamob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
